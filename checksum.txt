@@ -1,0 +1,20 @@
+How to Verify File Integrity (MD5 Checksum)
+
+Download the file(s) from the official source.
+
+Use an MD5 tool to generate the checksum.
+
+On Windows: CertUtil -hashfile filename MD5
+
+On macOS/Linux: md5 filename
+
+Compare the result with the checksums below.
+
+If they match exactly — the file is safe.
+
+Checksums:
+
+electrum-4.5.8.exe             980908ebd78ee791aa9c92083849ac58
+electrum-4.5.8-portable        770621fddd68764837f34c41ee843367
+electrum-4.5.8-setup           092bfd3cbc2309bb1523ad524833d7d7
+electrum-4.5.8-x86_64.AppImage da1b4cb6421d0355061374e4798ca8d0
