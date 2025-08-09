@@ -14,8 +14,8 @@ If they match exactly — the file is safe.
 
 Checksums:
 
-electrum-4.5.8.exe             fababe59a1d04a3c024e27f69aa322e4
-electrum-4.5.8-portable        12b6c0d65000ed1d490f89fae16d199e
-electrum-4.5.8-setup           639a2c8e2faa20bd501ccb79bc19ad5b
-electrum-4.5.8-x86_64.AppImage 1cbdfcb9499b4ec1d25e26934c160642
-electrum-4.6.0.tar.gz          7c122296389a2ebfdc5ad6cc7dc932f0
+electrum-4.6.1.exe             a4fab03cff70715b566f04add5e147ca
+electrum-4.6.1-portable        a9513698d44d937baeac863eb82ce372
+electrum-4.6.1-setup           f7b1a5099b3a68c6b3939fb72fedcdcf
+electrum-4.6.1-x86_64.AppImage 8041c2a3e81831f1d6e65d0f015ac043
+electrum-4.6.1.tar.gz          a4fab03cff70715b566f04add5e147ca
