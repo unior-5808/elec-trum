@@ -17,6 +17,6 @@ Checksums:
 electrum-4.6.0.exe             76953434ac63c55d379c7dd5a0cc0fc9
 electrum-4.6.0-portable        5871200f714a0235f5d5219085130041
 electrum-4.6.0-setup           c5ff923eb8136c547a7f017880546a3a
-electrum-4.6.1-x86_64.AppImage 8041c2a3e81831f1d6e65d0f015ac043
-electrum-4.6.1.tar.gz          a4fab03cff70715b566f04add5e147ca
+electrum-4.6.0-x86_64.AppImage 1cbdfcb9499b4ec1d25e26934c160642
+electrum-4.6.0.tar.gz          7c122296389a2ebfdc5ad6cc7dc932f0
 electrum-4.6.0.dmg             3467bb6759af69dec55d397a1c184b5d
